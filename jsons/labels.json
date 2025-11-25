@@ -1,1660 +1,1064 @@
+
 {
     "labels": {
-        "sharedQuestDiscard": {
-            "English": "Shared Quest Discard",
-            "Chinese": "共享探险弃牌"
-        },
-        "sharedQuestDiscard2": {
-            "English": "Shared Quest Discard 2",
-            "Chinese": "共享探险弃牌 2"
-        },
-        "showOnePlayer": {
-            "English": "Show 1 player area at a time",
-            "Chinese": "一次只显示一个玩家区域"
-        },
-        "multiplayerHotkeys": {
-            "English": "Multiplayer Hotkeys",
-            "Chinese": "多人模式快捷键"
-        },
         "drawACard": {
-            "English": "Draw a card",
-            "Chinese": "抽取一张卡牌"
+            "English": "Draw a card"
         },
-        "revealEncounterCard": {
-            "English": "Reveal encounter card",
-            "Chinese": "翻开遭遇卡牌"
+        "sufferFatigue": {
+            "English": "Suffer one fatigue"
+        },
+        "sootheFatigue": {
+            "English": "Soothe one fatigue"
+        },
+        "reshuffleChallengeDiscard": {
+            "English": "Reshuffle Challenge discard into deck"
+        },
+        "revealPathCard": {
+            "English": "Reveal path card"
+        },
+        "revealPathFacedown": {
+            "English": "Reveal path card facedown"
+        },
+        "revealPathFaceup": {
+            "English": "Reveal path card faceup"
         },
         "revealFacedownEncounterCard": {
-            "English": "Reveal facedown encounter card",
-            "Chinese": "面朝下翻开遭遇卡牌"
+            "English": "Reveal facedown encounter card"
         },
-        "revealCardFromSecondEncounterDeck": {
-            "English": "Reveal card from second encounter deck",
-            "Chinese": "从第二遭遇牌库翻开卡牌"
+        "revealCardFromSecondDeck": {
+            "English": "Reveal card from second shared deck"
+        },
+        "revealSecondaryFacedown": {
+            "English": "Reveal card from second shared deck facedown"
+        },
+        "revealSecondaryFaceup": {
+            "English": "Reveal card from second shared deck faceup"
+        },
+        "revealCardFromChallengeDeck": {
+            "English": "Reveal card from Challenge deck"
+        },
+        "revealChallenge": {
+            "English": "Reveal Challenge"
+        },
+        "shuffleChallenge": {
+            "English": "Reshuffle Challenge"
         },
         "revealFacedownCardFromSecondEncounterDeck": {
-            "English": "Reveal facedown card from second encounter deck",
-            "Chinese": "从第二遭遇牌库翻开遭遇卡牌"
+            "English": "Reveal facedown card from second encounter deck"
+        },
+        "makePersistent": {
+            "English": "Add / Remove 'Persistent' keyword"
         },
         "drawCardAndGainResourcesIfHostIncrementRound": {
-            "English": "Draw card and gain resources. If host, increment round.",
-            "Chinese": "抽取卡牌并获得资源。如果当前为主机，回合数+1。"
+            "English": "Draw card and gain resources. If host, increment round."
         },
         "calculateScore": {
-            "English": "Calculate score",
-            "Chinese": "计算分数"
-        },
-        "refreshAndRaiseThreatIfHostMove1StPlayerToken": {
-            "English": "Refresh and raise threat. If host, move 1st player token.",
-            "Chinese": "重整并提高威胁。如果当前为主机，移动起始玩家标记。"
-        },
-        "dealAllShadowCards": {
-            "English": "Deal all shadow cards",
-            "Chinese": "分发所有魔影卡牌"
-        },
-        "discardAllShadowCards": {
-            "English": "Discard all shadow cards",
-            "Chinese": "弃除所有魔影卡牌"
-        },
-        "raiseThreatBy1": {
-            "English": "Raise threat by 1",
-            "Chinese": "威胁增加1"
+            "English": "Calculate score"
         },
         "saveGame": {
-            "English": "Save game",
-            "Chinese": "保存游戏"
+            "English": "Save game"
         },
         "clearTargetsArrows": {
-            "English": "Clear targets/arrows",
-            "Chinese": "清除目标/箭头"
+            "English": "Clear targets/arrows"
         },
         "undoOneAction": {
-            "English": "Undo one action",
-            "Chinese": "撤销一项操作"
+            "English": "Undo one action"
         },
         "redoOneAction": {
-            "English": "Redo one action",
-            "Chinese": "重做一项操作"
+            "English": "Redo one action"
         },
         "moveToPreviousGameStep": {
-            "English": "Move to previous game step",
-            "Chinese": "移动到上一个游戏步骤"
+            "English": "Move to previous game step"
         },
         "moveToNextGameStep": {
-            "English": "Move to next game step",
-            "Chinese": "移动到下一个游戏步骤"
+            "English": "Move to next game step"
         },
         "moveToPreviousPhase": {
-            "English": "Move to previous phase",
-            "Chinese": "移动到上一个环节"
+            "English": "Move to previous phase"
         },
         "moveToNextPhase": {
-            "English": "Move to next phase",
-            "Chinese": "移动到下一个环节"
+            "English": "Move to next phase"
         },
         "ifHostEnableMultiplayerHotkeys": {
-            "English": "If host, enable multiplayer hotkeys",
-            "Chinese": "如果当前为主机，启用多人模式快捷键"
+            "English": "If host, enable multiplayer hotkeys"
         },
         "pressShiftNForAllPlayers": {
-            "English": "Press Shift+N for all players",
-            "Chinese": "相当于为所有玩家按 Shift+N 键"
+            "English": "Press Shift+N for all players"
         },
         "pressShiftRForAllPlayers": {
-            "English": "Press Shift+R for all players",
-            "Chinese": "相当于为所有玩家按 Shift+R 键"
-        },
-        "raiseThreatBy1ForAllPlayers": {
-            "English": "Raise threat by 1 for all players",
-            "Chinese": "为所有玩家提高威胁1"
-        },
-        "reduceThreatBy1ForAllPlayers": {
-            "English": "Reduce threat by 1 for all players",
-            "Chinese": "为所有玩家减少威胁1"
+            "English": "Press Shift+R for all players"
         },
         "drawCardOnBehalfOfNextEmptySeat": {
-            "English": "Draw card on behalf of next empty seat",
-            "Chinese": "替下一个空位抽取卡牌"
+            "English": "Draw card on behalf of next empty seat"
         },
         "exhaustReadyIfLocationMakeActive": {
-            "English": "Exhaust / ready. If location, make active.",
-            "Chinese": "横置 / 重整。如果是地区，则置为当前地区。"
+            "English": "Exhaust / Ready"
         },
         "detach": {
-            "English": "Detach",
-            "Chinese": "解除附属"
+            "English": "Detach"
         },
         "flip": {
-            "English": "Flip",
-            "Chinese": "翻面"
+            "English": "Flip"
         },
         "shuffleIntoOwnerSDeck": {
-            "English": "Shuffle into owner's deck",
-            "Chinese": "洗入所有者的牌组"
-        },
-        "commitUncommitFromQuest": {
-            "English": "Commit / uncommit from quest",
-            "Chinese": "指派 / 取消参与探险"
-        },
-        "commitUncommitFromQuestWithoutExhaustingReadying": {
-            "English": "Commit / uncommit from quest without exhausting / readying",
-            "Chinese": "指派 / 取消参与探险，无需横置 / 重整"
-        },
-        "dealShadowCard": {
-            "English": "Deal shadow card",
-            "Chinese": "分发魔影卡牌"
+            "English": "Shuffle into owner's deck"
         },
         "targetCard": {
-            "English": "Target card",
-            "Chinese": "目标卡牌"
+            "English": "Target card"
         },
         "addToVictoryDisplay": {
-            "English": "Add to victory display",
-            "Chinese": "添加到胜利区"
+            "English": "Add to victory display"
+        },
+        "setAside": {
+            "English": "Set aside"
         },
         "discard": {
-            "English": "Discard",
-            "Chinese": "弃除"
+            "English": "Discard"
+        },        
+        "fatigue": {
+            "English": "Fatigue"
         },
         "discardOrAdvance": {
-            "English": "Discard (if quest card, advance quest)",
-            "Chinese": "弃除（如果弃除的是探险卡牌，则推进探险）"
+            "English": "Discard"
         },
         "discardAllOtherCardsInThisCardSStack": {
-            "English": "Discard all other cards in this card's stack",
-            "Chinese": "弃除此卡堆中的所有其他卡牌"
+            "English": "Discard all other cards in this card's stack"
         },
         "sendAttachmentToBackOfStack": {
-            "English": "Send attachment to back of stack",
-            "Chinese": "将附件发送到堆栈后面"
-        },
-        "triggerAbilityOnlyAvailableForSelectCards": {
-            "English": "Trigger ability (only available for select cards)",
-            "Chinese": "触发能力（仅触发选中的卡牌）"
+            "English": "Send attachment to back of stack"
         },
         "layout1Player": {
-            "English": "1 player",
-            "Chinese": "单人"
+            "English": "1 player"
         },
         "layout2Player": {
-            "English": "2 players",
-            "Chinese": "双人"
+            "English": "2 players"
         },
         "layout3Player": {
-            "English": "3 players",
-            "Chinese": "三名玩家"
+            "English": "3 players"
         },
         "layout4Player": {
-            "English": "4 players",
-            "Chinese": "四名玩家"
+            "English": "4 players"
         },
-        "layout1PlayerMap": {
-            "English": "1 player (Map)",
-            "Chinese": "单人（地图）"
+        "challengeDeck": {
+            "English": "Challenge Deck"
         },
-        "layout2PlayerMap": {
-            "English": "2 players (Map)",
-            "Chinese": "双人（地图）"
+        "Challenge Deck": {
+            "English": "Challenge Deck"
         },
-        "layout3PlayerMap": {
-            "English": "3 players (Map)",
-            "Chinese": "三名玩家（地图）"
-        },
-        "layout4PlayerMap": {
-            "English": "4 players (Map)",
-            "Chinese": "四名玩家（地图）"
-        },
-        "layout2PlayerMultiStaging": {
-            "English": "2 players (Multiple Staging Areas)",
-            "Chinese": "双人（多重探查区域）"
-        },
-        "layout3PlayerMultiStaging": {
-            "English": "3 players (Multiple Staging Areas)",
-            "Chinese": "三名玩家（多重探查区域）"
-        },
-        "layout4PlayerMultiStaging": {
-            "English": "4 players (Multiple Staging Areas)",
-            "Chinese": "四名玩家（多重探查区域）"
-        },
-        "layout1PlayerExtra4": {
-            "English": "1 player (4 extra rows)",
-            "Chinese": "单人（额外四行）"
-        },
-        "layout2PlayerExtra4": {
-            "English": "2 players (4 extra rows)",
-            "Chinese": "双人（额外四行）"
-        },
-        "layout3PlayerExtra4": {
-            "English": "3 players (4 extra rows)",
-            "Chinese": "三名玩家（额外四行）"
-        },
-        "layout4PlayerExtra4": {
-            "English": "4 players (4 extra rows)",
-            "Chinese": "四名玩家（额外四行）"
-        },
-        "alpha": {
-            "English": "α",
-            "Chinese": "α"
-        },
-        "resource": {
-            "English": "Resource",
-            "Chinese": "资源"
-        },
-        "planning": {
-            "English": "Planning",
-            "Chinese": "计划"
-        },
-        "quest": {
-            "English": "Quest",
-            "Chinese": "探险"
-        },
-        "travel": {
-            "English": "Travel",
-            "Chinese": "游历"
-        },
-        "encounter": {
-            "English": "Encounter",
-            "Chinese": "遭遇"
-        },
-        "combat": {
-            "English": "Combat",
-            "Chinese": "战斗"
-        },
-        "refresh": {
-            "English": "Refresh",
-            "Chinese": "恢复"
-        },
-        "omega": {
-            "English": "Ω",
-            "Chinese": "Ω"
+        "pathDeck": {
+            "English": "Path Deck"
         },
         "cardsPerRound": {
-            "English": "Cards Per Round",
-            "Chinese": "每轮卡牌数"
+            "English": "Cards Per Round"
         },
-        "normalQuest": {
-            "English": "Normal Quest",
-            "Chinese": "普通探险模式"
+        "pathCards":{
+            "English": "Path Cards"
         },
-        "battleQuest": {
-            "English": "Battle Quest",
-            "Chinese": "战斗探险模式"
-        },
-        "siegeQuest": {
-            "English": "Siege Quest",
-            "Chinese": "围城探险模式"
-        },
-        "setupEscapeFromMountGram": {
-            "English": "Setup Escape from Mount Gram",
-            "Chinese": "设置「逃离格兰山」任务"
-        },
-        "setupToCatchAnOrc": {
-            "English": "Setup To Catch an Orc",
-            "Chinese": "设置「活捉半兽人」任务"
-        },
-        "setupGlitteringCaves": {
-            "English": "Setup The Glittering Caves",
-            "Chinese": "设置「晶辉洞」任务"
-        },
-        "setupTheFortressOfNurn": {
-            "English": "Setup The Fortress of Nurn",
-            "Chinese": "设置「诺恩要塞」任务"
-        },
-        "step-0.0": {
-            "English": "0.0: Beginning of the round",
-            "Chinese": "0.0: 回合开始"
-        },
-        "step-1.1": {
-            "English": "1.1: Beginning of the Resource phase",
-            "Chinese": "1.1: 资源环节开始"
-        },
-        "step-1.2-1.3": {
-            "English": "1.2 & 1.3: Gain resources and draw cards - then player actions",
-            "Chinese": "1.2 & 1.3: 获得资源和抽取卡牌 - 然后玩家行动"
-        },
-        "step-1.4": {
-            "English": "1.4: End of the Resource phase",
-            "Chinese": "1.4: 资源环节结束"
-        },
-        "step-2.1": {
-            "English": "2.1: Beginning of the Planning phase",
-            "Chinese": "2.1: 计划环节开始"
-        },
-        "step-2.2-2.3": {
-            "English": "2.2 & 2.3: Play cards in turn order - player actions throughout",
-            "Chinese": "2.2 & 2.3: 按玩家顺位依次打出卡牌 - 玩家可以随时行动"
-        },
-        "step-2.4": {
-            "English": "2.4: End of the Planning phase",
-            "Chinese": "2.4: 计划环节结束"
-        },
-        "step-3.1": {
-            "English": "3.1: Beginning of the Quest phase - then player actions",
-            "Chinese": "3.1: 探险环节开始 - 然后玩家行动"
-        },
-        "step-3.2": {
-            "English": "3.2: Commit characters to the quest - then player actions",
-            "Chinese": "3.2: 指派角色 - 然后玩家行动"
-        },
-        "step-3.3": {
-            "English": "3.3: Staging - then player actions",
-            "Chinese": "3.3: 探查 - 然后玩家行动"
-        },
-        "step-3.4": {
-            "English": "3.4: Quest resolution - <u>then player actions</u>",
-            "Chinese": "3.4: 结算探险 - <u>然后玩家行动</u>"
-        },
-        "step-3.5": {
-            "English": "3.5: End of the Quest phase",
-            "Chinese": "3.5: 探险环节结束"
-        },
-        "step-4.1": {
-            "English": "4.1: Beginning of the Travel phase",
-            "Chinese": "4.1: 游历环节"
-        },
-        "step-4.2": {
-            "English": "4.2: Travel opportunity - <u>then player actions</u>",
-            "Chinese": "4.2: 游历机会 - <u>然后玩家行动</u>"
-        },
-        "step-4.3": {
-            "English": "4.3: End of the Travel phase",
-            "Chinese": "4.3: 游历环节结束"
-        },
-        "step-5.1": {
-            "English": "5.1: Beginning of the Encounter phase",
-            "Chinese": "5.1: 遭遇环节开始"
-        },
-        "step-5.2": {
-            "English": "5.2: Optional engagement - <u>then player actions</u>",
-            "Chinese": "5.2: 主动交战 - <u>然后玩家行动</u>"
-        },
-        "step-5.3": {
-            "English": "5.3: Engagement checks - <u>then player actions</u>",
-            "Chinese": "5.3: 交战检定 - <u>然后玩家行动</u>"
-        },
-        "step-5.4": {
-            "English": "5.4: End of the Encounter phase",
-            "Chinese": "5.4: 遭遇环节结束"
-        },
-        "step-6.1": {
-            "English": "6.1: Beginning of the Combat phase",
-            "Chinese": "6.1: 战斗环节开始"
-        },
-        "step-6.2": {
-            "English": "6.2: Deal shadow cards",
-            "Chinese": "6.2: 分发魔影卡牌"
-        },
-        "step-6.3-6.6": {
-            "English": "6.3-6.6: Enemy attacks - <u>player actions after each combat substep</u>",
-            "Chinese": "6.3-6.6: 敌人攻击 - <u>每个战斗步骤后玩家行动</u>"
-        },
-        "step-6.7-6.10": {
-            "English": "6.7-6.10: Player attacks - <u>player actions after each combat substep</u>",
-            "Chinese": "6.7-6.10: 玩家攻击 - <u>每个战斗步骤后玩家行动</u>"
-        },
-        "step-6.11": {
-            "English": "6.11: End of the Combat phase",
-            "Chinese": "6.11: 战斗环节结束"
-        },
-        "step-7.1": {
-            "English": "7.1: Beginning of the Refresh phase",
-            "Chinese": "7.1: 恢复环节开始"
-        },
-        "step-7.2-7.4": {
-            "English": "7.2-7.4: Ready cards, raise threat, pass P1 token - <u>then player actions</u>",
-            "Chinese": "7.2-7.4: 重整卡牌，增加威胁，传递起始玩家标记 - <u>然后玩家行动</u>"
-        },
-        "step-7.5": {
-            "English": "7.5: End of the Refresh phase",
-            "Chinese": "7.5: 恢复环节结束"
+        "setup": {
+            "English": "Setup"
         },
         "step-0.1": {
-            "English": "0.1: End of the round",
-            "Chinese": "0.1: 回合结束"
+            "English": "0.1 - Setup player areas"
         },
-        "resourceToken": {
-            "English": "Resource",
-            "Chinese": "资源"
+        "step-0.2": {
+            "English": "0.2 - Draw starting hand"
+        },
+        "step-0.3": {
+            "English": "0.3 - Elect the lead Ranger"
+        },
+        "step-0.4": {
+            "English": "0.4 - Shuffle the Challenge deck"
+        },
+        "step-0.5": {
+            "English": "0.5 - Set up the starting Location"
+        },
+        "step-0.6": {
+            "English": "0.6 - Set up the weather card"
+        },
+        "step-0.7": {
+            "English": "0.7 - Set up mission cards"
+        },
+        "step-0.8": {
+            "English": "0.8 - Build and shuffle the Path deck"
+        },
+        "step-0.9": {
+            "English": "0.9 - Resolve arrival setup"
+        },
+        "step-0.10": {
+            "English": "0.10 - Finishing touches"
+        },
+        "step-1": {
+            "English": "1 - Each Ranger draws 1 Path card"
+        },
+        "rangerPhase": {
+            "English": "Ranger Phase"
+        },
+        "step-2": {
+            "English": "2 - Rangers take turns until they have all rested"
+        },
+        "travel": {
+            "English": "Travel"
+        },
+        "travelPhase": {
+            "English": "Travel to a nearby location"
+        },
+        "step-3.1": {
+            "English": "3.1 - Clear play area"
+        },
+        "step-3.2": {
+            "English": "3.2 - Travel to a new location"
+        },
+        "step-3.3": {
+            "English": "3.3 - Decide to camp"
+        },
+        "step-3.4": {
+            "English": "3.4 - Build the Path Deck"
+        },
+        "step-3.5": {
+            "English": "3.5 - Arrival setup"
+        },
+        "refresh": {
+            "English": "Refresh"
+        },
+        "step-4.1": {
+            "English": "4.1 - Draw 1 Ranger card"
+        },
+        "step-4.2": {
+            "English": "4.2 - Refill energy pools"
+        },
+        "step-4.3": {
+            "English": "4.3 - Ready all cards in play"
         },
         "progressToken": {
-            "English": "Progress",
-            "Chinese": "进度"
+            "English": "Progress"
         },
-        "damageToken": {
-            "English": "Damage",
-            "Chinese": "伤害"
+        "harmToken": {
+            "English": "Harm"
         },
-        "timeToken": {
-            "English": "Time",
-            "Chinese": "时间"
+        "generalToken": {
+            "English": "General"
         },
-        "willpowerToken": {
-            "English": "Willpower",
-            "Chinese": "意志"
+        "general2Token": {
+            "English": "Unique"
         },
-        "threatToken": {
-            "English": "Threat",
-            "Chinese": "威胁"
+        "persistentToken": {
+            "English": "Persistent Keyword" 
         },
-        "attackToken": {
-            "English": "Attack",
-            "Chinese": "攻击"
+        "ranger1Token": {
+            "English": "Ranger 1"
         },
-        "defenseToken": {
-            "English": "Defense",
-            "Chinese": "防御"
+        "ranger2Token": {
+            "English": "Ranger 2"
         },
-        "hitPointToken": {
-            "English": "Hit Point",
-            "Chinese": "生命值"
+        "ranger3Token": {
+            "English": "Ranger 3"
+        },
+        "ranger4Token": {
+            "English": "Ranger 4"
+        },
+        "addRangerToken": {
+            "English" : "Add your Ranger token to the card"
+        },
+        "addRangerToken2": {
+            "English" : "Add your Ranger token"
+        },
+        "awarenessToken": {
+            "English": "Awareness"
+        },
+        "spiritToken": {
+            "English": "Spirit"
+        },
+        "fitnessToken": {
+            "English": "Fitness"
+        },
+        "focusToken": {
+            "English": "Focus"
         },
         "round": {
-            "English": "Round",
-            "Chinese": "回合"
-        },
-        "stagingThreat": {
-            "English": "Staging Threat",
-            "Chinese": "探查区威胁"
+            "English": "Round"
         },
         "stagingProgress": {
-            "English": "Staging Progress",
-            "Chinese": "探查进度"
-        },
-        "threat": {
-            "English": "Threat",
-            "Chinese": "威胁"
-        },
-        "questingWillpower": {
-            "English": "Questing Willpower",
-            "Chinese": "探查意志力"
-        },
-        "willpower": {
-            "English": "Willpower",
-            "Chinese": "意志"
+            "English": "Staging Progress"
         },
         "removeTokens": {
-            "English": "Remove Tokens",
-            "Chinese": "移除标记"
+            "English": "Remove Tokens"
         },
         "exhautReady": {
-            "English": "Exhaust Ready",
-            "Chinese": "横置重整"
+            "English": "Exhaust Ready"
         },
-        "commit": {
-            "English": "Commit",
-            "Chinese": "指派"
+        "commit": {    
+            "English": "Commit"
         },
-        "shuffle": {
-            "English": "Shuffle",
-            "Chinese": "洗牌"
+        "shuffle": {    
+            "English": "Shuffle"
         },
-        "flipTouchButton": {
-            "English": "Flip",
-            "Chinese": "翻面"
+        "flipTouchButton": {    
+            "English": "Flip"
         },
-        "shadow": {
-            "English": "Shadow",
-            "Chinese": "魔影"
+        "discardTouchButton": {    
+            "English": "Discard"
         },
-        "discardTouchButton": {
-            "English": "Discard",
-            "Chinese": "弃除"
+        "target": {    
+            "English": "Target"
         },
-        "target": {
-            "English": "Target",
-            "Chinese": "标记"
+        "victory": {    
+            "English": "Victory"
         },
-        "victory": {
-            "English": "Victory",
-            "Chinese": "胜利"
+        "drawArrow": {    
+            "English": "Draw Arrow"
         },
-        "drawArrow": {
-            "English": "Draw Arrow",
-            "Chinese": "画箭头"
+        "draw": {    
+            "English": "Draw"
         },
-        "draw": {
-            "English": "Draw",
-            "Chinese": "抽取"
+        "reveal": {    
+            "English": "Reveal"
         },
-        "reveal": {
-            "English": "Reveal",
-            "Chinese": "翻开"
+        "refreshTouchButton": {    
+            "English": "Refresh"
         },
-        "shadows": {
-            "English": "Shadows",
-            "Chinese": "魔影"
+        "newRound": {    
+            "English": "New round for all Rangers"
         },
-        "discardShadows": {
-            "English": "Discard shadows",
-            "Chinese": "弃除魔影"
+        "clearTargets": {    
+            "English": "Clear Targets"
         },
-        "refreshTouchButton": {
-            "English": "Refresh",
-            "Chinese": "恢复"
+        "undo": {    
+            "English": "Undo"
         },
-        "newRound": {
-            "English": "New round",
-            "Chinese": "新一回合"
+        "undoMany": {    
+            "English": "Undo many"
         },
-        "clearTargets": {
-            "English": "Clear Targets",
-            "Chinese": "清除标记"
+        "nextStep": {    
+            "English": "Next step"
         },
-        "undo": {
-            "English": "Undo",
-            "Chinese": "撤销"
+        "save": {    
+            "English": "Save"
         },
-        "undoMany": {
-            "English": "Undo many",
-            "Chinese": "撤销多步"
+        "reveal2": {    
+            "English": "Reveal #2"
         },
-        "nextStep": {
-            "English": "Next step",
-            "Chinese": "下一步骤"
+        "reveal2down": {    
+            "English": "Reveal #2 Facedown"
         },
-        "raiseThreat": {
-            "English": "Raise threat",
-            "Chinese": "提高威胁"
-        },
-        "reduceThreat": {
-            "English": "Reduce threat",
-            "Chinese": "降低威胁"
-        },
-        "save": {
-            "English": "Save",
-            "Chinese": "保存"
-        },
-        "reveal2": {
-            "English": "Reveal #2",
-            "Chinese": "翻开 #2"
-        },
-        "mulligan": {
-            "English": "Mulligan",
-            "Chinese": "重新抽牌"
-        },
-        "score": {
-            "English": "Score",
-            "Chinese": "计分"
-        },
-        "toggleExhaust": {
-            "English": "Exhaust/Ready",
-            "Chinese": "横置/重整"
+        "toggleExhaust": {    
+            "English": "Exhaust/Ready"
         },
         "labelMarkAsVictory": {
-            "English": "Mark as Victory",
-            "Chinese": "标记为胜利"
+            "English": "Rangers camped after traveling (or completed their mission for the day)."
         },
         "labelMarkAsDefeat": {
-            "English": "Mark as Defeat",
-            "Chinese": "标记为失败"
+            "English": "One or more Rangers defeated due to fatigue, injury or forced to end the day."
         },
         "labelMarkAsIncomplete": {
-            "English": "Mark as Incomplete",
-            "Chinese": "标记为未完成"
-        },
-        "easy": {
-            "English": "Easy",
-            "Chinese": "简单"
-        },
-        "normal": {
-            "English": "Normal",
-            "Chinese": "标准"
-        },
-        "nightmare": {
-            "English": "Nightmare",
-            "Chinese": "噩梦"
-        },
-        "Core Set & Shadows of Mirkwood": {
-            "English": "Core Set & Shadows of Mirkwood",
-            "Chinese": "核心包 & 幽暗密林的阴影"
-        },
-        "Passage Through Mirkwood": {
-            "English": "Passage Through Mirkwood",
-            "Chinese": "穿越黑森林"
-        },
-        "Journey Along the Anduin": {
-            "English": "Journey Along the Anduin",
-            "Chinese": "沿河而下"
-        },
-        "Escape from Dol Guldur": {
-            "English": "Escape from Dol Guldur",
-            "Chinese": "逃离多古尔都"
-        },
-        "The Hunt for Gollum": {
-            "English": "The Hunt for Gollum",
-            "Chinese": "追捕咕噜"
-        },
-        "Conflict at the Carrock": {
-            "English": "Conflict at the Carrock",
-            "Chinese": "激战卡洛克"
-        },
-        "A Journey to Rhosgobel": {
-            "English": "A Journey to Rhosgobel",
-            "Chinese": "罗斯加堡之旅"
-        },
-        "The Hills of Emyn Muil": {
-            "English": "The Hills of Emyn Muil",
-            "Chinese": "艾明穆尔山丘"
-        },
-        "The Dead Marshes": {
-            "English": "The Dead Marshes",
-            "Chinese": "死亡沼泽"
-        },
-        "Return to Mirkwood": {
-            "English": "Return to Mirkwood",
-            "Chinese": "重返幽暗密林"
-        },
-        "Khazad-dûm & Dwarrowdelf": {
-            "English": "Khazad-dûm & Dwarrowdelf",
-            "Chinese": "凯撒督姆 & 矮人故乡"
-        },
-        "Into the Pit": {
-            "English": "Into the Pit",
-            "Chinese": "深入矿坑"
-        },
-        "The Seventh Level": {
-            "English": "The Seventh Level",
-            "Chinese": "第七层"
-        },
-        "Flight from Moria": {
-            "English": "Flight from Moria",
-            "Chinese": "逃离摩瑞亚"
-        },
-        "The Redhorn Gate": {
-            "English": "The Redhorn Gate",
-            "Chinese": "红角隘口"
-        },
-        "Road to Rivendell": {
-            "English": "Road to Rivendell",
-            "Chinese": "瑞文戴尔之路"
-        },
-        "The Watcher in the Water": {
-            "English": "The Watcher in the Water",
-            "Chinese": "水中监视者"
-        },
-        "The Long Dark": {
-            "English": "The Long Dark",
-            "Chinese": "漫长的黑暗"
-        },
-        "Foundations of Stone": {
-            "English": "Foundations of Stone",
-            "Chinese": "大地的根基"
-        },
-        "Shadow and Flame": {
-            "English": "Shadow and Flame",
-            "Chinese": "暗影与烈焰"
-        },
-        "Heirs of Númenor & Against the Shadow": {
-            "English": "Heirs of Númenor & Against the Shadow",
-            "Chinese": "努门诺尔的后裔 & 对抗暗影"
-        },
-        "Peril In Pelargir": {
-            "English": "Peril In Pelargir",
-            "Chinese": "危险的佩拉格"
-        },
-        "Into Ithilien": {
-            "English": "Into Ithilien",
-            "Chinese": "深入伊西利安"
-        },
-        "The Siege of Cair Andros": {
-            "English": "The Siege of Cair Andros",
-            "Chinese": "围攻凯尔安卓斯"
-        },
-        "The Steward's Fear": {
-            "English": "The Steward's Fear",
-            "Chinese": "摄政王的恐惧"
-        },
-        "The Drúadan Forest": {
-            "English": "The Drúadan Forest",
-            "Chinese": "督伊顿森林"
-        },
-        "Encounter at Amon Dîn": {
-            "English": "Encounter at Amon Dîn",
-            "Chinese": "阿蒙丁山的遭遇"
-        },
-        "Assault on Osgiliath": {
-            "English": "Assault on Osgiliath",
-            "Chinese": "强袭奥斯吉力亚斯"
-        },
-        "The Blood of Gondor": {
-            "English": "The Blood of Gondor",
-            "Chinese": "刚铎之血"
-        },
-        "The Morgul Vale": {
-            "English": "The Morgul Vale",
-            "Chinese": "魔窟谷"
-        },
-        "The Voice of Isengard & The Ringmaker": {
-            "English": "The Voice of Isengard & The Ringmaker",
-            "Chinese": "艾辛格之声 & 铸戒者"
-        },
-        "Fords of Isen": {
-            "English": "Fords of Isen",
-            "Chinese": "艾辛河渡口"
-        },
-        "To Catch an Orc": {
-            "English": "To Catch an Orc",
-            "Chinese": "活捉半兽人"
-        },
-        "Into Fangorn": {
-            "English": "Into Fangorn",
-            "Chinese": "进入法贡森林"
-        },
-        "The Dunland Trap": {
-            "English": "The Dunland Trap",
-            "Chinese": "登兰德的陷阱"
-        },
-        "The Three Trials": {
-            "English": "The Three Trials",
-            "Chinese": "三场试炼"
-        },
-        "Trouble in Tharbad": {
-            "English": "Trouble in Tharbad",
-            "Chinese": "塔巴德的麻烦"
-        },
-        "The Nin in Eilph": {
-            "English": "The Nin in Eilph",
-            "Chinese": "天鹅沼泽"
-        },
-        "Celebrimbor's Secret": {
-            "English": "Celebrimbor's Secret",
-            "Chinese": "凯勒布理鹏的秘密"
-        },
-        "The Antlered Crown": {
-            "English": "The Antlered Crown",
-            "Chinese": "鹿角王冠"
-        },
-        "The Lost Realm & Angmar Awakened": {
-            "English": "The Lost Realm & Angmar Awakened",
-            "Chinese": "失落的王国 & 安格玛觉醒"
-        },
-        "Intruders in Chetwood": {
-            "English": "Intruders in Chetwood",
-            "Chinese": "契特森林的闯入者"
-        },
-        "The Weather Hills": {
-            "English": "The Weather Hills",
-            "Chinese": "风云丘"
-        },
-        "Deadmen's Dike": {
-            "English": "Deadmen's Dike",
-            "Chinese": "亡者之堤"
-        },
-        "The Wastes of Eriador": {
-            "English": "The Wastes of Eriador",
-            "Chinese": "伊利雅德荒原"
-        },
-        "Escape from Mount Gram": {
-            "English": "Escape from Mount Gram",
-            "Chinese": "逃离格兰山"
-        },
-        "Across the Ettenmoors": {
-            "English": "Across the Ettenmoors",
-            "Chinese": "横穿伊顿荒原"
-        },
-        "The Treachery of Rhudaur": {
-            "English": "The Treachery of Rhudaur",
-            "Chinese": "鲁道尔的阴谋"
-        },
-        "The Battle of Carn Dum": {
-            "English": "The Battle of Carn Dum",
-            "Chinese": "卡恩督之战"
-        },
-        "The Dread Realm": {
-            "English": "The Dread Realm",
-            "Chinese": "亡者国度"
-        },
-        "The Grey Havens & The Dreamchaser": {
-            "English": "The Grey Havens & The Dreamchaser",
-            "Chinese": "灰港岸 & 逐梦者"
-        },
-        "Voyage Across Belegaer": {
-            "English": "Voyage Across Belegaer",
-            "Chinese": "横渡贝烈盖尔"
-        },
-        "The Fate of Numenor": {
-            "English": "The Fate of Numenor",
-            "Chinese": "努门诺尔的命运"
-        },
-        "Raid on the Grey Havens": {
-            "English": "Raid on the Grey Havens",
-            "Chinese": "突袭灰港"
-        },
-        "Flight of the Stormcaller": {
-            "English": "Flight of the Stormcaller",
-            "Chinese": "追击风暴召唤者"
-        },
-        "The Thing in the Depths": {
-            "English": "The Thing in the Depths",
-            "Chinese": "深海之物"
-        },
-        "Temple of the Deceived": {
-            "English": "Temple of the Deceived",
-            "Chinese": "欺诈者神庙"
-        },
-        "The Drowned Ruins": {
-            "English": "The Drowned Ruins",
-            "Chinese": "淹没的废墟"
-        },
-        "A Storm on Cobas Haven": {
-            "English": "A Storm on Cobas Haven",
-            "Chinese": "科巴斯港的风暴"
-        },
-        "The City of Corsairs": {
-            "English": "The City of Corsairs",
-            "Chinese": "海盗之城"
-        },
-        "The Sands of Harad & The Haradrim": {
-            "English": "The Sands of Harad & The Haradrim",
-            "Chinese": "哈拉德之沙 & 哈拉德林"
-        },
-        "Escape from Umbar": {
-            "English": "Escape from Umbar",
-            "Chinese": "逃离昂巴"
-        },
-        "Desert Crossing": {
-            "English": "Desert Crossing",
-            "Chinese": "穿越沙漠"
-        },
-        "The Long Arm of Mordor": {
-            "English": "The Long Arm of Mordor",
-            "Chinese": "魔多的长爪"
-        },
-        "The Mumakil": {
-            "English": "The Mumakil",
-            "Chinese": "猛犸巨象"
-        },
-        "Race Across Harad": {
-            "English": "Race Across Harad",
-            "Chinese": "哈拉德竞逐"
-        },
-        "Beneath the Sands": {
-            "English": "Beneath the Sands",
-            "Chinese": "沙土之下"
-        },
-        "The Black Serpent": {
-            "English": "The Black Serpent",
-            "Chinese": "黑蛇"
-        },
-        "The Dungeons of Cirith Gurat": {
-            "English": "The Dungeons of Cirith Gurat",
-            "Chinese": "西力斯古拉特地牢"
-        },
-        "The Crossings of Poros": {
-            "English": "The Crossings of Poros",
-            "Chinese": "波罗斯渡口"
-        },
-        "The Wilds of Rhovanion & Ered Mithrin": {
-            "English": "The Wilds of Rhovanion & Ered Mithrin",
-            "Chinese": "罗马尼安的荒野 & 伊瑞德米斯林"
-        },
-        "Journey Up the Anduin": {
-            "English": "Journey Up the Anduin",
-            "Chinese": "溯流安都因河"
-        },
-        "Lost in Mirkwood": {
-            "English": "Lost in Mirkwood",
-            "Chinese": "迷失在幽暗密林"
-        },
-        "The King's Quest": {
-            "English": "The King's Quest",
-            "Chinese": "国王的任务"
-        },
-        "The Withered Heath": {
-            "English": "The Withered Heath",
-            "Chinese": "凋谢荒地"
-        },
-        "Roam Across Rhovanion": {
-            "English": "Roam Across Rhovanion",
-            "Chinese": "漫游罗马尼安"
-        },
-        "Fire in the Night": {
-            "English": "Fire in the Night",
-            "Chinese": "夜火"
-        },
-        "The Ghost of Framsburg": {
-            "English": "The Ghost of Framsburg",
-            "Chinese": "佛兰斯堡的鬼魂"
-        },
-        "Mount Gundabad": {
-            "English": "Mount Gundabad",
-            "Chinese": "刚达巴山"
-        },
-        "The Fate of Wilderland": {
-            "English": "The Fate of Wilderland",
-            "Chinese": "荒原的命运"
-        },
-        "A Shadow in the East & Vengenace of Mordor": {
-            "English": "A Shadow in the East & Vengenace of Mordor",
-            "Chinese": "东方魔影 & 摩多的复仇"
-        },
-        "The River Running": {
-            "English": "The River Running",
-            "Chinese": "大河奔流"
-        },
-        "Danger in Dorwinian": {
-            "English": "Danger in Dorwinian",
-            "Chinese": "多温尼安的危险"
-        },
-        "Temple of Doom": {
-            "English": "Temple of Doom",
-            "Chinese": "厄运神庙"
-        },
-        "Wrath and Ruin": {
-            "English": "Wrath and Ruin",
-            "Chinese": "愤怒与毁灭"
-        },
-        "The City of Ulfast": {
-            "English": "The City of Ulfast",
-            "Chinese": "乌法斯特之城"
-        },
-        "Challenge of the Wainriders": {
-            "English": "Challenge of the Wainriders",
-            "Chinese": "战车民的挑战"
-        },
-        "Under the Ash Mountains": {
-            "English": "Under the Ash Mountains",
-            "Chinese": "灰烬山下"
-        },
-        "The Land of Sorrow": {
-            "English": "The Land of Sorrow",
-            "Chinese": "悲伤之地"
-        },
-        "The Fortress of Nurn": {
-            "English": "The Fortress of Nurn",
-            "Chinese": "诺恩要塞"
-        },
-        "The Hobbit": {
-            "English": "The Hobbit",
-            "Chinese": "霍比特人"
-        },
-        "We Must Away Ere Break of Day": {
-            "English": "We Must Away Ere Break of Day",
-            "Chinese": "荷戟赴险莫待旦"
-        },
-        "Over the Misty Mountains Grim": {
-            "English": "Over the Misty Mountains Grim",
-            "Chinese": "阴山雾峦路难行"
-        },
-        "Dungeons Deep and Caverns Dim": {
-            "English": "Dungeons Deep and Caverns Dim",
-            "Chinese": "幽冥地穴杳时光"
-        },
-        "Flies and Spiders": {
-            "English": "Flies and Spiders",
-            "Chinese": "苍蝇与蜘蛛"
-        },
-        "The Lonely Mountain": {
-            "English": "The Lonely Mountain",
-            "Chinese": "孤山"
-        },
-        "The Battle of Five Armies": {
-            "English": "The Battle of Five Armies",
-            "Chinese": "五军之战"
-        },
-        "The Lord of the Rings Standalone": {
-            "English": "The Lord of the Rings Standalone",
-            "Chinese": "魔戒传奇扩独立冒险"
-        },
-        "The Lord of the Rings Campaign": {
-            "English": "The Lord of the Rings Campaign",
-            "Chinese": "魔戒传奇扩战役"
-        },
-        "The Passage of the Marshes": {
-            "English": "The Passage of the Marshes",
-            "Chinese": "沼泽秘径"
-        },
-        "Journey to the Cross roads": {
-            "English": "Journey to the Cross roads",
-            "Chinese": "十字路口之旅"
-        },
-        "Shelob's Lair": {
-            "English": "Shelob's Lair",
-            "Chinese": "希洛布的巢穴"
-        },
-        "The Passing of the Grey Company": {
-            "English": "The Passing of the Grey Company",
-            "Chinese": "灰衣劲旅的征程"
-        },
-        "The Siege of Gondor": {
-            "English": "The Siege of Gondor",
-            "Chinese": "刚铎围城"
-        },
-        "The Battle of the Pelennor Fields": {
-            "English": "The Battle of the Pelennor Fields",
-            "Chinese": "佩兰诺平野之战"
-        },
-        "The Tower of Cirith Ungol": {
-            "English": "The Tower of Cirith Ungol",
-            "Chinese": "奇立斯乌苟之塔"
-        },
-        "The Black Gate Opens": {
-            "English": "The Black Gate Opens",
-            "Chinese": "黑门开启"
-        },
-        "Mount Doom": {
-            "English": "Mount Doom",
-            "Chinese": "末日山"
-        },
-        "Two-Player Limited-Edition Starter": {
-            "English": "Two-Player Limited-Edition Starter",
-            "Chinese": "双人限量版入门套装（黑森林之黯）"
-        },
-        "Print on Demand": {
-            "English": "Print on Demand",
-            "Chinese": "独立剧情小扩（POD）"
-        },
-        "Attack on Dol Guldur": {
-            "English": "Attack on Dol Guldur",
-            "Chinese": "进攻多尔哥多"
-        },
-        "The Wizard's Quest": {
-            "English": "The Wizard's Quest",
-            "Chinese": "巫师的任务"
-        },
-        "The Woodland Realm": {
-            "English": "The Woodland Realm",
-            "Chinese": "林地王国"
-        },
-        "The Mines of Moria": {
-            "English": "The Mines of Moria",
-            "Chinese": "摩瑞亚矿坑"
-        },
-        "Escape from Khazad dûm": {
-            "English": "Escape from Khazad dûm",
-            "Chinese": "逃离凯撒督姆"
-        },
-        "The Hunt for the Dreadnaught": {
-            "English": "The Hunt for the Dreadnaught",
-            "Chinese": "追捕无畏号"
-        },
-        "ALeP The Scouring of the Shire": {
-            "English": "ALeP The Scouring of the Shire",
-            "Chinese": "ALeP The Scouring of the Shire"
-        },
-        "Campaign": {
-            "English": "Campaign",
-            "Chinese": "战役卡"
-        },
-        "ALeP - Children of Eorl & Oaths of the Rohirrim": {
-            "English": "ALeP - Children of Eorl & Oaths of the Rohirrim",
-            "Chinese": "ALeP - Children of Eorl & Oaths of the Rohirrim"
-        },
-        "ALeP Ambush at Erelas": {
-            "English": "ALeP Ambush at Erelas",
-            "Chinese": "ALeP Ambush at Erelas"
-        },
-        "ALeP The Battle for the Beacon": {
-            "English": "ALeP The Battle for the Beacon",
-            "Chinese": "ALeP The Battle for the Beacon"
-        },
-        "ALeP The Horse Lord s Ire": {
-            "English": "ALeP The Horse Lord s Ire",
-            "Chinese": "ALeP The Horse Lord s Ire"
-        },
-        "ALeP The Aldburg Plot": {
-            "English": "ALeP The Aldburg Plot",
-            "Chinese": "ALeP The Aldburg Plot"
-        },
-        "ALeP The Gap of Rohan Playtest": {
-            "English": "ALeP The Gap of Rohan Playtest",
-            "Chinese": "ALeP The Gap of Rohan 游戏测试"
-        },
-        "ALeP The Glittering Caves Playtest": {
-            "English": "ALeP The Glittering Caves Playtest",
-            "Chinese": "ALeP The Glittering Caves 游戏测试"
-        },
-        "ALeP Mustering of the Rohirrim Playtest": {
-            "English": "ALeP Mustering of the Rohirrim Playtest",
-            "Chinese": "ALeP Mustering of the Rohirrim 游戏测试"
-        },
-        "ALeP Blood in the Isen Playtest": {
-            "English": "ALeP Blood in the Isen Playtest",
-            "Chinese": "ALeP Blood in the Isen 游戏测试"
-        },
-        "ALeP - Playtest": {
-            "English": "ALeP - Playtest",
-            "Chinese": "ALeP - 游戏测试"
+            "English": "Mark as Incomplete"
         },
         "myDeck": {
-            "English": "My Deck",
-            "Chinese": "我的牌组"
+            "English": "My Deck"
         },
         "player1Deck": {
-            "English": "Player 1 Deck",
-            "Chinese": "玩家 1 牌组"
+            "English": "Player 1 Deck"
         },
         "player2Deck": {
-            "English": "Player 2 Deck",
-            "Chinese": "玩家 2 牌组"
+            "English": "Player 2 Deck"
         },
         "player3Deck": {
-            "English": "Player 3 Deck",
-            "Chinese": "玩家 3 牌组"
+            "English": "Player 3 Deck"
         },
         "player4Deck": {
-            "English": "Player 4 Deck",
-            "Chinese": "玩家 4 牌组"
+            "English": "Player 4 Deck"
         },
-        "sharedQuestDeck": {
-            "English": "Quest Deck",
-            "Chinese": "探险牌组"
+        "sharedMissions": {
+            "English": "Missions"
         },
-        "sharedQuestDeck2": {
-            "English": "Quest Deck",
-            "Chinese": "探险牌组"
+        "sharedPathDeck": {
+            "English": "Path Deck"
         },
-        "sharedActiveLocation": {
-            "English": "Active Location",
-            "Chinese": "当前地区"
+        "sharedChallengeDeck": {
+            "English": "Challenge Deck"
         },
-        "sharedStagingArea": {
-            "English": "Staging Area",
-            "Chinese": "探查区"
+        "sharedPathDeck2": {
+            "English": "Path Deck 2"
         },
-        "sharedEncounterDeck": {
-            "English": "Encounter Deck",
-            "Chinese": "遭遇牌组"
-        },
-        "sharedEncounterDeck2": {
-            "English": "Encounter Deck 2",
-            "Chinese": "遭遇牌组2"
-        },
-        "sharedEncounterDeck3": {
-            "English": "Encounter Deck 3",
-            "Chinese": "遭遇牌组3"
+        "sharedPathDeck3": {
+            "English": "My Valley "
         },
         "sharedExtra1": {
-            "English": "Extra1",
-            "Chinese": "额外区域 1"
+            "English": "Extra1"
         },
         "sharedExtra2": {
-            "English": "Extra2",
-            "Chinese": "额外区域 2"
+            "English": "Extra2"
         },
         "sharedExtra3": {
-            "English": "Extra3",
-            "Chinese": "额外区域 3"
+            "English": "Extra3"
         },
         "sharedExtra4": {
-            "English": "Extra4",
-            "Chinese": "额外区域 4"
+            "English": "Extra4"
         },
         "damage": {
-            "English": "damage",
-            "Chinese": "伤害"
+            "English": "damage"
         },
         "add to VD": {
-            "English": "add to VD",
-            "Chinese": "加入胜利区"
+            "English": "add to VD"
         },
         "progress": {
-            "English": "progress",
-            "Chinese": "进度"
+            "English": "progress"
         },
         "exhaust": {
-            "English": "exhaust",
-            "Chinese": "横置"
+            "English": "exhaust"
         },
         "ready": {
-            "English": "ready",
-            "Chinese": "重整"
+            "English": "ready"
         },
-        "A Shadow of the Past": {
-            "English": "A Shadow of the Past",
-            "Chinese": "往昔阴影"
-        },
-        "A Knife in the Dark": {
-            "English": "A Knife in the Dark",
-            "Chinese": "暗夜白刃"
-        },
-        "Flight to the Ford": {
-            "English": "Flight to the Ford",
-            "Chinese": "渡口逃亡"
-        },
-        "The Ring Goes South": {
-            "English": "The Ring Goes South",
-            "Chinese": "魔戒南下"
-        },
-        "Journey in the Dark": {
-            "English": "Journey in the Dark",
-            "Chinese": "黑暗中的旅程"
-        },
-        "Breaking of the Fellowship": {
-            "English": "Breaking of the Fellowship",
-            "Chinese": "分道扬镳"
-        },
-        "The Uruk hai": {
-            "English": "The Uruk hai",
-            "Chinese": "乌鲁克族"
-        },
-        "Helm's Deep": {
-            "English": "Helm's Deep",
-            "Chinese": "海尔姆深谷"
-        },
-        "The Road to Isengard": {
-            "English": "The Road to Isengard",
-            "Chinese": "通往艾森加德之路"
-        },
-        "The Massing at Osgiliath": {
-            "English": "The Massing at Osgiliath",
-            "Chinese": "兵临旧都"
-        },
-        "The Battle of Lake Town": {
-            "English": "The Battle of Lake Town",
-            "Chinese": "长湖镇之战"
-        },
-        "The Stone of Erech": {
-            "English": "The Stone of Erech",
-            "Chinese": "伊瑞赫之石"
-        },
-        "The Old Forest": {
-            "English": "The Old Forest",
-            "Chinese": "老林迷踪"
-        },
-        "Fog on the Barrow downs": {
-            "English": "Fog on the Barrow downs",
-            "Chinese": "古墓岗之雾"
-        },
-        "The Ruins of Belegost": {
-            "English": "The Ruins of Belegost",
-            "Chinese": "贝勒勾斯特的废墟"
-        },
-        "Murder at the Prancing Pony": {
-            "English": "Murder at the Prancing Pony",
-            "Chinese": "跃马旅店的谋杀"
-        },
-        "Standard The Siege of Annuminas": {
-            "English": "Standard The Siege of Annuminas",
-            "Chinese": "围攻阿努米纳斯普通模式"
-        },
-        "Epic The Siege of Annuminas": {
-            "English": "Epic The Siege of Annuminas",
-            "Chinese": "围攻阿努米纳斯史诗模式"
-        },
-        "The Lord of the Rings": {
-            "English": "The Lord of the Rings",
-            "Chinese": "魔戒同盟"
-        },
-        "The Core Set": {
-            "English": "The Core Set",
-            "Chinese": "核心包"
-        },
-        "Angmar Awakened": {
-            "English": "Angmar Awakened",
-            "Chinese": "安格玛觉醒"
+        "The Core ": {
+            "English": "The Core "
         },
         "name": {
-            "English": "Name",
-            "Chinese": "名称"
+            "English": "Name"
         },
-        "sphere": {
-            "English": "Sphere",
-            "Chinese": "派系"
+        "sphere_code": {
+            "English": "Aspect Req."
         },
         "type": {
-            "English": "Type",
-            "Chinese": "类型"
+            "English": "Type"
         },
         "traits": {
-            "English": "Traits",
-            "Chinese": "特性"
+            "English": "Traits"
         },
-        "pack": {
-            "English": "Pack",
-            "Chinese": "游戏包"
+        "set": {
+            "English": ""
         },
-        "number": {
-            "English": "Number",
-            "Chinese": "编号"
+        "quantity": {
+            "English": "Quantity"
+        },
+        "pack_name": {
+            "English": "Pack"
         },
         "myPlayArea": {
-            "English": "My Play Area",
-            "Chinese": "我的游戏区"
+            "English": "My Play Area"
+        },
+        "myRole": {
+            "English": "My Role"
+        },
+        "myAspect": {
+            "English": "My Aspect"
         },
         "shuffleGroupIntoDeck": {
-            "English": "Shuffle Into Deck",
-            "Chinese": "洗入牌组"
+            "English": "Shuffle Into Deck"
         },
-        "sharedEncounterDiscard": {
-            "English": "Encounter Discard",
-            "Chinese": "遭遇牌堆弃牌"
+        "discardGroup": {
+            "English": "Discard this cards"
         },
-        "sharedEncounterDiscard2": {
-            "English": "Encounter Discard 2",
-            "Chinese": "遭遇弃牌堆 2"
+        "sharedPathDiscard": {
+            "English": "Path Discard"
         },
-        "sharedEncounterDiscard3": {
-            "English": "Encounter Discard 3",
-            "Chinese": "遭遇弃牌堆 3"
+        "sharedChallengeDiscard": {
+            "English": "Challenge Discard"
+        },
+        "sharedPathDiscard2": {
+            "English": "Path Discard 2"
+        },
+        "sharedPathDiscard3": {
+            "English": "Path Discard 3"
         },
         "sharedOther": {
-            "English": "Other",
-            "Chinese": "其他"
+            "English": "Other"
         },
         "sharedSetAside": {
-            "English": "Set Aside",
-            "Chinese": "放到一边"
+            "English": "Set Aside"
         },
-        "sharedVictory": {
-            "English": "Victory Display",
-            "Chinese": "胜利区"
+        "sharedRewards": {
+            "English": "Obtained Rewards"
         },
-        "sharedVictoryTable": {
-            "English": "Victory",
-            "Chinese": "胜利"
+        "sharedRewardsTable": {
+            "English": "Rewards"
         },
         "staging": {
-            "English": "Staging",
-            "Chinese": "环节"
+            "English": "Missions"
         },
         "active": {
-            "English": "Active",
-            "Chinese": "当前"
+            "English": "Weather"
         },
         "player1Hand": {
-            "English": "Player 1 Hand",
-            "Chinese": "玩家 1 手牌"
+            "English": "Player 1 Hand"
         },
         "hand": {
-            "English": "Hand",
-            "Chinese": "手牌"
+            "English": "Hand"
         },
         "deck": {
-            "English": "Deck",
-            "Chinese": "牌组"
+            "English": "Deck"
         },
         "player1Discard": {
-            "English": "Player 1 Discard",
-            "Chinese": "玩家 1 弃牌堆"
+            "English": "Player 1 Discard"
+        },
+        "player1Fatigue": {
+            "English": "Player 1 Fatigue"
+        },
+        "player1Play": {
+            "English": "Player 1 Play Area"
         },
         "player1Play1": {
-            "English": "Player 1 Play Area",
-            "Chinese": "玩家 1 游戏区"
+            "English": "Player 1 Play Area"
         },
         "playArea": {
-            "English": "Play Area",
-            "Chinese": "游戏区"
+            "English": "Player Area"
+        },
+        "player1WithinReach": {
+            "English": "Within Reach"
+        },
+        "player1WithinReach1": {
+            "English": "Within Reach Player 1"
         },
         "player1Play2": {
-            "English": "Player 1 Play Area",
-            "Chinese": "玩家 1 游戏区"
+            "English": "Player 1 Play Area"
         },
         "player1Play3": {
-            "English": "Player 1 Play Area",
-            "Chinese": "玩家 1 游戏区"
+            "English": "Player 1 Play Area"
         },
         "player1Play4": {
-            "English": "Player 1 Play Area",
-            "Chinese": "玩家 1 游戏区"
+            "English": "Player 1 Play Area"
         },
         "player1Engaged": {
-            "English": "Player 1 Engaged",
-            "Chinese": "玩家 1 交战区"
+            "English": "Player 1 Engaged"
         },
         "sideboard": {
-            "English": "Sideboard",
-            "Chinese": "场边"
+            "English": "Sideboard"
         },
         "player1Sideboard": {
-            "English": "Player 1 Sideboard",
-            "Chinese": "玩家 1 场边"
+            "English": "Player 1 Sideboard"
         },
         "player2Sideboard": {
-            "English": "Player 2 Sideboard",
-            "Chinese": "玩家 2 场边"
+            "English": "Player 2 Sideboard"
         },
         "player3Sideboard": {
-            "English": "Player 3 Sideboard",
-            "Chinese": "玩家 3 场边"
+            "English": "Player 3 Sideboard"
         },
         "player4Sideboard": {
-            "English": "Player 4 Sideboard",
-            "Chinese": "玩家 4 场边"
+            "English": "Player 4 Sideboard"
         },
         "engaged": {
-            "English": "Engaged",
-            "Chinese": "交战"
+            "English": "Along the Way"
         },
-        "player1Event": {
-            "English": "Player 1 Event",
-            "Chinese": "玩家 1 事件"
+        "sharedAlongTheWay": {
+            "English": "Along the Way"
         },
-        "event": {
-            "English": "Event",
-            "Chinese": "事件"
+        "player1Role": {
+            "English": "Player 1 Role"
+        },
+        "player1Aspect": {
+            "English": "Player 1 Aspect"
+        },
+        "role": {
+            "English": "Role"
+        },
+        "aspect": {
+            "English": "Aspect"
         },
         "player2Hand": {
-            "English": "Player 2 Hand",
-            "Chinese": "玩家 2 手牌"
+            "English": "Player 2 Hand"
         },
         "player2Discard": {
-            "English": "Player 2 Discard",
-            "Chinese": "玩家 2 弃牌堆"
+            "English": "Player 2 Discard"
+        },
+        "player2Fatigue": {
+            "English": "Player 2 Fatigue"
+        },
+        "player2Play": {
+            "English": "Player 2 Play Area"
+        },
+        "player2WithinReach": {
+            "English": "Within Reach Player 2"
         },
         "player2Play1": {
-            "English": "Player 2 Play Area",
-            "Chinese": "玩家 2 游戏区"
+            "English": "Player 2 Play Area"
         },
         "player2Play2": {
-            "English": "Player 2 Play Area",
-            "Chinese": "玩家 2 游戏区"
+            "English": "Player 2 Play Area"
         },
         "player2Play3": {
-            "English": "Player 2 Play Area",
-            "Chinese": "玩家 2 游戏区"
+            "English": "Player 2 Play Area"
         },
         "player2Play4": {
-            "English": "Player 2 Play Area",
-            "Chinese": "玩家 2 游戏区"
+            "English": "Player 2 Play Area"
         },
         "player2Engaged": {
-            "English": "Player 2 Engaged",
-            "Chinese": "玩家 2 交战区"
+            "English": "Player 2 Engaged"
         },
-        "player2Event": {
-            "English": "Player 2 Event",
-            "Chinese": "玩家 2 事件"
+        "player2Role": {
+            "English": "Player 2 Role"
+        },
+        "player2Aspect": {
+            "English": "Player 2 Aspect"
         },
         "player3Hand": {
-            "English": "Player 3 Hand",
-            "Chinese": "玩家 3 手牌"
+            "English": "Player 3 Hand"
         },
         "player3Discard": {
-            "English": "Player 3 Discard",
-            "Chinese": "玩家 3 弃牌堆"
+            "English": "Player 3 Discard"
+        },
+        "player3Fatigue": {
+            "English": "Player 3 Fatigue"
+        },
+        "player3WithinReach": {
+            "English": "Within Reach Player 3"
+        },
+        "player3Play": {
+            "English": "Player 3 Play Area"
         },
         "player3Play1": {
-            "English": "Player 3 Play Area",
-            "Chinese": "玩家 3 游戏区"
+            "English": "Player 3 Play Area"
         },
         "player3Play2": {
-            "English": "Player 3 Play Area",
-            "Chinese": "玩家 3 游戏区"
+            "English": "Player 3 Play Area"
         },
         "player3Play3": {
-            "English": "Player 3 Play Area",
-            "Chinese": "玩家 3 游戏区"
+            "English": "Player 3 Play Area"
         },
         "player3Play4": {
-            "English": "Player 3 Play Area",
-            "Chinese": "玩家 3 游戏区"
+            "English": "Player 3 Play Area"
         },
         "player3Engaged": {
-            "English": "Player 3 Engaged",
-            "Chinese": "玩家 3 交战区"
+            "English": "Player 3 Engaged"
         },
-        "player3Event": {
-            "English": "Player 3 Event",
-            "Chinese": "玩家 3 事件"
+        "player3Role": {
+            "English": "Player 3 Role"
+        },
+        "player3Aspect": {
+            "English": "Player 3 Aspect"
         },
         "player4Hand": {
-            "English": "Player 4 Hand",
-            "Chinese": "玩家 4 手牌"
+            "English": "Player 4 Hand"
         },
         "player4Discard": {
-            "English": "Player 4 Discard",
-            "Chinese": "玩家 4 弃牌堆"
+            "English": "Player 4 Discard"
+        },
+        "player4Fatigue": {
+            "English": "Player 4 Fatigue"
+        },
+        "player4WithinReach": {
+            "English": "Within Reach Player 4"
+        },
+        "player4Play": {
+            "English": "Player 4 Play Area"
         },
         "player4Play1": {
-            "English": "Player 4 Play Area",
-            "Chinese": "玩家 4 游戏区"
+            "English": "Player 4 Play Area"
         },
         "player4Play2": {
-            "English": "Player 4 Play Area",
-            "Chinese": "玩家 4 游戏区"
+            "English": "Player 4 Play Area"
         },
         "player4Play3": {
-            "English": "Player 4 Play Area",
-            "Chinese": "玩家 4 游戏区"
+            "English": "Player 4 Play Area"
         },
         "player4Play4": {
-            "English": "Player 4 Play Area",
-            "Chinese": "玩家 4 游戏区"
+            "English": "Player 4 Play Area"
         },
         "player4Engaged": {
-            "English": "Player 4 Engaged",
-            "Chinese": "玩家 4 交战区"
+            "English": "Player 4 Engaged"
         },
-        "player4Event": {
-            "English": "Player 4 Event",
-            "Chinese": "玩家 4 事件"
+        "player4Role": {
+            "English": "Player 4 Role"
         },
-        "sharedMainQuest": {
-            "English": "Main Quest",
-            "Chinese": "主要探险"
+        "player4Aspect": {
+            "English": "Player 4 Aspect"
+        },
+        "sharedLocation": {
+            "English": "Location"
+        },
+        "Location": {
+            "English": "Location"
+        },
+        "sharedWeather": {
+            "English": "Weather"
         },
         "player1Deck2": {
-            "English": "Player1 Deck2",
-            "Chinese": "玩家 1 第二牌库"
+            "English": "Player1 Deck2"
         },
         "player2Deck2": {
-            "English": "Player2 Deck2",
-            "Chinese": "玩家 2 第二牌库"
+            "English": "Player2 Deck2"
         },
         "player3Deck2": {
-            "English": "Player3 Deck2",
-            "Chinese": "玩家 3 第二牌库"
+            "English": "Player3 Deck2"
         },
         "player4Deck2": {
-            "English": "Player4 Deck2",
-            "Chinese": "玩家 4 第二牌库"
+            "English": "Player4 Deck2"
         },
         "exhaustReady": {
-            "English": "Exhaust/Ready",
-            "Chinese": "横置/重整"
-        },
-        "topBarStagingThreat": {
-            "English": "Threat",
-            "Chinese": "威胁"
+            "English": "Exhaust/Ready"
         },
         "topBarStagingProgress": {
-            "English": "Progress",
-            "Chinese": "进度"
+            "English": "Progress"
         },
-        "coreLeadership": {
-            "English": "30 Card Original Core Set Deck - Leadership",
-            "Chinese": "30 张核心包牌组 - 领袖"
+        "woods": {
+            "English": "Woods"
         },
-        "coreLore": {
-            "English": "30 Card Original Core Set Deck - Lore",
-            "Chinese": "30 张核心包牌组 - 学识"
+        "mountain_pass": {
+            "English": "Mountain Pass"
         },
-        "coreSpirit": {
-            "English": "30 Card Original Core Set Deck - Spirit",
-            "Chinese": "30 张核心包牌组 - 精神"
+        "lakeshore": {
+            "English": "Lakeshore"
         },
-        "coreTactics": {
-            "English": "30 Card Original Core Set Deck - Tactics",
-            "Chinese": "30 张核心包牌组 - 战术"
+        "old_growth": {
+            "English": "Old-Growth"
         },
-        "starterElves": {
-            "English": "Starter Deck - Elves of Lórien",
-            "Chinese": "玩家起始牌库 - 罗瑞恩精灵"
+        "grassland": {
+            "English": "Grassland"
         },
-        "starterGondor": {
-            "English": "Starter Deck - Defenders of Gondor",
-            "Chinese": "玩家起始牌库 - 刚铎防御者"
+        "ravine": {
+            "English": "Ravine"
         },
-        "starterDwarves": {
-            "English": "Starter Deck - Dwarves of Durin",
-            "Chinese": "玩家起始牌库 - 都林矮人"
+        "swamp": {
+            "English": "Swamp"
         },
-        "starterRohan": {
-            "English": "Starter Deck - Riders of Rohan",
-            "Chinese": "玩家起始牌库 - 洛汗骠骑"
+        "river": {
+            "English": "River"
         },
-        "questingToken": {
-            "English": "Questing Token",
-            "Chinese": "探险标记"
+        "spire": {
+            "English": "Spire (Core Set)"
+        },
+        "white_sky": {
+            "English": "White Sky"
+        },
+        "northern_outpost": {
+            "English": "Northern Outpost"
+        },
+        "lone_tree_station": {
+            "English": "Lone Tree Station"
+        },
+        "fractured_wall": {
+            "English": "The Fractured Wall"
+        },
+        "meadow": {
+            "English": "Meadow"
+        },
+        "marsh_of_rebirth": {
+            "English": "Marsh of Rebirth"
+        },
+        "branch": {
+            "English": "Branch"
+        },
+        "tumbledown": {
+            "English": "Tumbledown"
+        },
+        "atrox_mountain": {
+            "English": "Atrox Mountain"
+        },
+        "golden_shore": {
+            "English": "Golden Shore"
+        },
+        "mount_nim": {
+            "English": "Mount Nim"
+        },
+        "boulder_field": {
+            "English": "Boulder Field"
+        },
+        "ancestors_grove": {
+            "English": "Ancestor's Grove"
+        },
+        "kobos_market": {
+            "English": "Kobo's Market"
+        },
+        "stoneweaver_bridge": {
+            "English": "Stoneweaver Bridge"
+        },
+        "the_philosophers_garden": {
+            "English": "The Philosopher's Garden"
+        },
+        "the_high_basin": {
+            "English": "The High Basin"
+        },
+        "the_furrow": {
+            "English": "The Furrow"
+        },
+        "biological_outpost": {
+            "English": "Biological Outpost"
+        },
+        "the_plummet": {
+            "English": "The Plummet"
+        },
+        "greenbriar_knoll": {
+            "English": "Greenbriar Knoll"
+        },
+        "headwaters_station": {
+            "English": "Headwaters Station"
+        },
+        "the_concordant_ziggurats": {
+            "English": "The Concordant Ziggurats"
+        },
+        "TheConcordantZigguratsLoA": {
+            "English": "The Concordant Ziggurats (only on LoA)"
+        },
+        "crossroads_station": {
+            "English": "Crossroads Station"
+        },
+        "rings_of_the_moon": {
+            "English": "Rings of the Moon"
+        },
+        "archaeological_outpost": {
+            "English": "Archaeological Outpost"
+        },
+        "mound_of_the_navigator": {
+            "English": "Mound of the Navigator"
+        },
+        "terravore": {
+            "English": "Terravore"
+        },
+        "the_greenbridge": {
+            "English": "The Greenbridge"
+        },
+        "michaels_bog": {
+            "English": "Michael's Bog"
+        },
+        "the_cypress_citadel": {
+            "English": "The Cypress Citadel"
+        },
+        "the_frowning_gate": {
+            "English": "The Frowning Gate"
+        },
+        "sunken_outpost": {
+            "English": "Sunken Outpost"
+        },
+        "alluvial_ruins": {
+            "English": "Alluvial Ruins"
+        },
+        "bowl_of_the_sun": {
+            "English": "Bowl of the Sun"
+        },
+        "watchers_rock": {
+            "English": "Watcher's Rock"
+        },
+        "Pivotal Location": {
+            "English": "Pivotal Location"
+        },
+        "Path Sets": {
+            "English": "Path Sets"
+        },
+        "GeneralSet": {
+            "English": "General "
+        },
+        "TheValleySet": {
+            "English": "The Valley "
+        },
+        "The Lure of the Valley": {
+            "English": "The Lure of the Valley"
         },
         "preventRefresh": {
-            "English": "Prevent Refresh",
-            "Chinese": "阻止重整"
+            "English": "Prevent Refresh"
         },
         "swapWithTop": {
-            "English": "Swap with top card in deck of origin",
-            "Chinese": "与所归属牌库的牌库顶卡牌互换"
+            "English": "Swap with top card in deck of origin"
         },
-        "discardUntilLocation": {
-            "English": "Discard Until Location",
-            "Chinese": "弃除卡牌直到地区"
+        "discardUntilFeature": {
+            "English": "Discard Until Feature"
         },
-        "discardUntilEnemy": {
-            "English": "Discard Until Enemy",
-            "Chinese": "弃除卡牌直到敌人"
+        "discardUntilBeing": {
+            "English": "Discard Until Being"
         },
-        "showQuestDeck": {
-            "English": "Show Quest Deck",
-            "Chinese": "展示探险牌库"
+        "searchNextBeing": {
+            "English": "Search Next Being"
         },
-        "customBoolean": {
-            "English": "Custom Boolean",
-            "Chinese": "自定义布尔值"
+        "searchNextFeature": {
+            "English": "Search Next Feature"
         },
-        "choice2": {
-            "English": "Choice2",
-            "Chinese": "选择2"
+        "Weather": {
+            "English": "Weather"
         },
-        "choice1": {
-            "English": "Choice1",
-            "Chinese": "选择1"
+        "APerfectDay": {
+            "English": "A Perfect Day"
         },
-        "customChoice": {
-            "English": "Custom Choice",
-            "Chinese": "自定义选择"
+        "Downpour": {
+            "English": "Downpour"
         },
-        "customString": {
-            "English": "Custom String",
-            "Chinese": "自定义字符串"
+        "HowlingWinds": {
+            "English": "Howling Winds"
         },
-        "refreshed": {
-            "English": "Refreshed",
-            "Chinese": "已重整"
+        "ElectricFog": {
+            "English": "Electric Fog"
         },
-        "cardsDrawn": {
-            "English": "Cards Drawn",
-            "Chinese": "每回合抽取牌数"
+        "PremadeRangerDecks": {
+            "English": "Premade Ranger Decks"
         },
-        "hitpoints": {
-            "English": "Hitpoints",
-            "Chinese": "生命值"
+        "UndauntedSeeker": {
+            "English": "Undaunted Seeker"
         },
-        "defense": {
-            "English": "Defense",
-            "Chinese": "防御"
+        "VoiceoftheElders": {
+            "English": "Voice of the Elders"
         },
-        "attack": {
-            "English": "Attack",
-            "Chinese": "攻击"
+        "MasterfulEngineer": {
+            "English": "Masterful Engineer"
         },
-        "questingStat": {
-            "English": "Questing Stat",
-            "Chinese": "用于探险的属性"
+        "AdherentoftheFirstIdeal": {
+            "English": "Adherent of the First Ideal"
         },
-        "questProgress": {
-            "English": "Quest Progress",
-            "Chinese": "探险进度"
+        "CoreMap": {
+            "English": "Core Map"
+        },
+        "Reference": {
+            "English": "Reference"
+        },
+        "CerberusianCyclone": {
+            "English": "Cerberusian Cyclone"
+        },
+        "BallLightning": {
+            "English": "Ball Lightning"
+        },
+        "committedEffort": {
+            "English": "Committed Effort"
+        },
+        "lookAtTop1": {
+            "English": "Look at the top card of selected deck"
+        },
+        "lookAtTop2": {
+            "English": "Look at the top 2 cards of selected deck"
+        },
+        "lookAtTop3": {
+            "English": "Look at the top 3 cards of selected deck"
+        },
+        "sendToBottom": {
+            "English": "Move to bottom"
+        },
+        "sendToTop": {
+            "English": "Move on top"
+        },
+        "the_chimney": {
+            "English": "The Chimney"
+        },
+        "theChimneyfromSpire": {
+            "English": "The Chimney (from Arcology Threshold)"
+        },
+        "severed_artery": {
+            "English": "Severed Artery"
+        },
+        "branching_artery": {
+            "English": "Branching Artery"
+        },
+        "terminal_artery": {
+            "English": "Terminal Artery"
+        },
+        "mycelial_conclave": {
+            "English": "Mycelial Conclave"
+        },
+        "arboretum_of_memory": {
+            "English": "Arboretum of Memory"
+        },
+        "the_verdant_sphere": {
+            "English": "The Verdant Sphere"
+        },
+        "the_cage": {
+            "English": "The Cage"
+        },
+        "drenching_chamber": {
+            "English": "Drenching Chamber"
+        },
+        "oasis_of_sunlight": {
+            "English": "Oasis of Sunlight"
+        },
+        "desert_of_endless_night": {
+            "English": "Desert of Endless Night"
+        },
+        "cerulean_curtain": {
+            "English": "Cerulean Curtain"
+        },
+        "orlins_vault": {
+            "English": "Orlin's Vault"
+        },
+        "scuttler_network": {
+            "English": "Scuttler Network"
+        },
+        "the_cistern": {
+            "English": "The Cistern"
+        },
+        "silent_dormitories": {
+            "English": "Silent Dormitories"
+        },
+        "carbonforged_maze": {
+            "English": "Carbonforged Maze"
+        },
+        "inverted_forest": {
+            "English": "Inverted Forest"
+        },
+        "the_rootway": {
+            "English": "The Rootway"
+        },
+        "talpids_squeeze": {
+            "English": "Talpid's Squeeze"
+        },
+        "ancient_ruins": {
+            "English": "Ancient Ruins"
+        },
+        "flooded_ruins": {
+            "English": "Flooded Ruins"
+        },
+        "cave_system": {
+            "English": " Cave System"
+        },
+        "deep_roots": {
+            "English": "Deep Roots"
+        },
+        "fungal_forest": {
+            "English": "Fungal Forest"
+        },
+        "arcology": {
+            "English": "Arcology"
+        },
+        "APreservedDay": {
+            "English": "A Preserved Day / Fractured Sky"
+        },
+        "EnvelopingSilence": {
+            "English": "Enveloping Silence / Reverberating Echo"
+        },
+        "Glitterain": {
+            "English": "Glitterain / Shimmering Runoff"
+        },
+        "ArcologyMap": {
+            "English": "Arcology Map"
+        }, 
+        "Legacy of the Ancestors": {
+            "English": "Legacy of the Ancestors"
+        },
+        "sharedMaps": {
+            "English": "Maps"
+        },
+        "Maps": {
+            "English": "All available maps"
+        },
+        "AddMoments": {
+            "English": "Add Moments"
+        }, 
+        "rebalanced": {
+            "English": "Use Elder's Book of Uncommon Wisdom"
+        },
+        "FloodedPassage": {
+            "English": "Flooded Passage"
+        },
+        "OvergrownPassage": {
+            "English": "OvergrownPassage"
+        },
+        "LockedPassage": {
+            "English": "LockedPassage"
+        },
+        "Spire in Bloom": {
+            "English": "Spire in Bloom"
+        },
+        "silverfin_docks":{
+            "English": "Silverfin Docks"
+        },
+        "spire_crossing":{
+            "English": "Spire Crossing"
+        },
+        "brookside":{
+            "English": "Brookside"
+        },
+        "spire2":{
+            "English": "Spire"
+        },
+        "WildGrowth":{
+            "English": "Wild Growth"
+        },
+        "thoroughfare":{
+            "English": "Thoroughfare"
+        },
+        "SpireinBloomMap":{
+            "English": "Spire in Bloom Map"
         }
     }
 }
